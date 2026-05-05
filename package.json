@@ -1,13 +1,13 @@
 {
   "name": "cucumber-simple-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Cucumber.js project",
   "main": "index.js",
   "scripts": {
     "test": "cucumber-js"
   },
   "keywords": [],
-  "author": "",
+  "author": "diazgn",
   "license": "ISC",
   "type": "module",
   "dependencies": {
