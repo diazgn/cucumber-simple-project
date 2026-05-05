@@ -11,7 +11,7 @@ A simple Cucumber.js BDD project.
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/diazgn/cucumber-simple-project.git
 cd cucumber-simple-project
 
 # Install dependencies
