@@ -1,0 +1,17 @@
+{
+  "name": "cucumber-simple-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@cucumber/cucumber": "12.8.2",
+    "chai": "6.2.2"
+  }
+}
